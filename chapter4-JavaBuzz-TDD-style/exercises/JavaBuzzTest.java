@@ -1,7 +1,10 @@
 import static org.junit.Assert.*;
-import org.junit.Test;
+import org.junit.*;
+
+
 
 public class JavaBuzzTest {
+
   @Test
   public void forThree(){
     JavaBuzz buzz = new JavaBuzz();
